@@ -2,7 +2,7 @@
 
 - 💻 Sou uma desenvolvedora Fullstack com ênfase em Backend.
 - 🌱 Atualmente estou trabalhando com .NET, C#, SQL, T-SQL e Vue.js.
-- 🚀  Aprendendo e aprimorando meus conhecimentos em Microsservicos e Mensageria(RabbitMQ).
+- 🚀  Aprendendo e aprimorando meus conhecimentos em Microsservicos, Docker e Mensageria(RabbitMQ).
   
 - Meus contatos:
 <div> 
